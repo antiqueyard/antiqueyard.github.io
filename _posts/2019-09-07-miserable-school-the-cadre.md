@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "日寓中学系列之魔鬼班干部"
-subtitle:   " Ironic Stories In A Misery School: The Cadres"
+subtitle:   " Ironic Stories In A Miserable School: The Cadre"
 date:       2019-09-06
 author:     "AntiqueYard"
 header-img: "img/union.jpg"
@@ -13,7 +13,7 @@ tags:
 
 **本故事纯属虚构，如有巧合，全怪天意**
 
-**THIS STORY IS ABSOLUTELY FICTIONAL. FOR ANY INCIDENTAL CORRESPONDENCE IN REALITY, ONLY THE CREATOR AND YOUR OWN IMAGINATION IS TO BE BLAMED**
+**THIS STORY IS ABSOLUTELY FICTIONAL. FOR ANY INCIDENTAL CORRESPONDENCE IN REALITY, ONLY THE CREATOR AND YOUR OWN IMAGINATION ARE TO BE BLAMED**
 
 # 1
 
